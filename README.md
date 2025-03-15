@@ -105,8 +105,3 @@ Example:
 2. Open `index.html` in a browser.  
 3. Enter a word or phrase and click **Check**.  
 
-## Possible Enhancements  
-
-- Add **real-time validation** while typing.  
-- Support **multilingual input** for wider usability.  
-- Implement a **dark mode toggle** for better UX.  
